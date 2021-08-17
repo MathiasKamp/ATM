@@ -1,0 +1,34 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17e1dccb_002D963d_002D4bd6_002Dab2d_002D13f70321d46e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Add_SimpleValuesShouldAddTogether" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\mathi\RiderProjects\hæveAutomaten\HæveAutomaten.Tests" Presentation="&amp;lt;HæveAutomaten.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=238e3cc2_002D3306_002D435c_002Dbeca_002Da0d3dd1971f9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateRandomNumber_ShouldWork #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.GenerateRandomNumber_ShouldWork&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7264defe_002D6428_002D4ee8_002Dae67_002D75f14d0d8253/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateRandomNumber_ShouldWork" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.GenerateRandomNumber_ShouldWork&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa308727_002D646f_002D40ca_002D8fa7_002D3764ad9c2715/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GenerateRandomNumber_ShouldWork #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.GenerateRandomNumber_ShouldWork&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.GenerateRandomNumber_shouldFail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.CreateDirectory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.CreateAccount_ShouldWork&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.CreateAccount_ShouldFail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.AddAccountToList_ShouldFail&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af1d4fa4_002D4d6e_002D45fb_002Db132_002Db7ac0d7c1f96/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateRandomNumber_ShouldWork #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.GenerateRandomNumber_ShouldWork&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c827aa64_002D9c4d_002D4d6c_002D8eae_002Ddb099e08453d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateRandomNumber_ShouldWork #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D059B15-B171-4610-BAB8-6D5CAC2C84E0::.NETFramework,Version=v4.7.2::HæveAutomaten.Tests.DatabaseManagerTests.GenerateRandomNumber_ShouldWork&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

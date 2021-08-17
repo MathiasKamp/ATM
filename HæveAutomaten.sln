@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HæveAutomaten", "HæveAutomaten\HæveAutomaten.csproj", "{74EEB1C8-4EBE-4D22-BAD6-6485B54E1969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HæveAutomaten.Tests", "HæveAutomaten.Tests\HæveAutomaten.Tests.csproj", "{5D059B15-B171-4610-BAB8-6D5CAC2C84E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74EEB1C8-4EBE-4D22-BAD6-6485B54E1969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EEB1C8-4EBE-4D22-BAD6-6485B54E1969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EEB1C8-4EBE-4D22-BAD6-6485B54E1969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EEB1C8-4EBE-4D22-BAD6-6485B54E1969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D059B15-B171-4610-BAB8-6D5CAC2C84E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D059B15-B171-4610-BAB8-6D5CAC2C84E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D059B15-B171-4610-BAB8-6D5CAC2C84E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D059B15-B171-4610-BAB8-6D5CAC2C84E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
