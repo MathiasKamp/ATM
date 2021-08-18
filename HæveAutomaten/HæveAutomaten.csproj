@@ -59,9 +59,10 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Account.cs" />
-        <Compile Include="BankManager.cs" />
-        <Compile Include="DatabaseManager.cs" />
-        <Compile Include="DatabaseManagerWithFile.cs" />
+        <Compile Include="BankManagerWithDatabase.cs" />
+        <Compile Include="BankManagerWithFile.cs" />
+        <Compile Include="DataManagerWithDatabase.cs" />
+        <Compile Include="DataManagerWithFile.cs" />
         <Compile Include="DbConnection.cs" />
         <Compile Include="Gui.cs" />
         <Compile Include="Program.cs" />
